@@ -6,6 +6,7 @@
 
 
 - 🌱 Daily Polishing my skills in **JavaScript & Java Ecosystem**
+- 👨‍💻 I like to showcase my work, check out my projects below.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
